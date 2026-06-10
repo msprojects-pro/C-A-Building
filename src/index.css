@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", sans-serif;
+
+  --color-primary-900: #111827;
+  --color-primary-800: #1f2937;
+  --color-accent-blue: #1e40af;
+  --color-accent-orange: #b45309;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "C.A Building and Roofing Ltd",
+  "description": "Professional building and roofing services in Manchester, United Kingdom. Specializing in roof repairs, replacements, and home improvements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
